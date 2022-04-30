@@ -1,8 +1,8 @@
 # 💫Hello everyone I'm Ngoc :
-🌱 <b>I’m currently learning at Ha Noi University Of Science And Technology.</b><br>
-⚡ <b>Fun fact: Love you forever.</b><br>
-🤝 <b>My facebook: </b><a href="https://www.facebook.com/tienngoc2k2/">Click here</a><br>
-📖 <b>Languages: English, Japanese(日本語)</b>
+## 🌱 <b>I’m currently learning at Ha Noi University Of Science And Technology.</b><br>
+## ⚡ <b>Fun fact: Love you forever.</b><br>
+## 🤝 <b>My facebook: </b><a href="https://www.facebook.com/tienngoc2k2/">Click here</a><br>
+## 📖 <b>Languages: English, Japanese(日本語)</b>
 
 ## 
 # 📊GitHub Stats :
@@ -12,4 +12,5 @@
 
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-😍😍 <b>Thanks for visit my github</b>
+
+## 😍😍 <b>Thanks for visit my github</b>
