@@ -1,7 +1,7 @@
 # 💫Hello everyone I'm Ngoc :
 ## 🌱 <b>I’m currently learning at Ha Noi University Of Science And Technology.</b><br>
 ## ⚡ <b>Fun fact: Love you forever.</b><br>
-## 🤝 <b>My facebook: </b><a href="https://www.facebook.com/tienngoc2k2/">Click here</a><br>
+## 🤝 <b>My facebook: </b><a href="https://www.facebook.com/tienngoc2k2/" target="_blank">Click here</a><br>
 ## 📖 <b>Languages: English, Japanese(日本語)</b>
 
 ## 
